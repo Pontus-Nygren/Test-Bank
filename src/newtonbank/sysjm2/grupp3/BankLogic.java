@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Befkadu Degefa
+ * @author Befkadu Degefa the pro!
  */
 public class BankLogic
 {
