@@ -55,6 +55,11 @@ public class SavingsAccount extends Account
         }
 
     }
+        @Override
+    public String toString()
+    {
+        return ", interestRate=" + getInterestRate() +  ", Balance " + getBalance();
+    }
 //    public void CalculateInterest()
 //    {
 //        System.out.println("Balance " + getBalance()); //test

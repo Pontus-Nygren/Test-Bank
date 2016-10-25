@@ -69,10 +69,7 @@ public class Account
         this.interestRate = interestRate;
     }
 
-//    @Override
-//    public String toString()
-//    {
-//        return ", interestRate=" + interestRate +  ", Balance " + getBalance();
+
 }
     
     

@@ -23,7 +23,7 @@ public class BankLogic
     {
         allCustomersArrayList = new ArrayList<>();
         Customer customer1 = new Customer("AA1", 11 ,new SavingsAccount(2,"Saving",1003, 123456));
-        Customer customer2 = new Customer("BB1", 22 ,new SavingsAccount(2,"Saving",1003, 123456));
+        Customer customer2 = new Customer("BB1", 22 ,new SavingsAccount(2,"Saving",1004, 123456));
         allCustomersArrayList.add(customer1);
         allCustomersArrayList.add(customer2);
     }
