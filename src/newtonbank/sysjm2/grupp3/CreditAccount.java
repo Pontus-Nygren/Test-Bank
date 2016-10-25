@@ -38,10 +38,5 @@ public class CreditAccount extends Account {
         this.debtRate = debtRate;
     }
     
-    public void hej()
-    {
-        System.out.println("Hej");
-    }
-    
 }
 
