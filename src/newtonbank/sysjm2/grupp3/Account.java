@@ -12,6 +12,7 @@ package newtonbank.sysjm2.grupp3;
 public class Account
 {
     // POntus testar
+    // Magnus testar
     private double balance;
     private String accountType;
     private int accountID;

@@ -5,6 +5,8 @@
  */
 package newtonbank.sysjm2.grupp3;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Befkadu Degefa
@@ -15,6 +17,7 @@ public class Customer
     private String customerName;
     private long personalNumber;
     private Account account;
+    ArrayList<Account> accountList = new ArrayList();
 
     /**
      * Default constructor
